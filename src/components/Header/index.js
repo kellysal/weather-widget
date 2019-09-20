@@ -3,7 +3,7 @@ import React from "react";
 const Header = () => (
     <div>
         <h1 className="header-container__title">Weather Widget</h1>
-        <p className="header-container__subtitle">Please enter a city for current weather</p>
+        <p className="header-container__subtitle">Enter city and county for current weather</p>
     </div>
 );
 
